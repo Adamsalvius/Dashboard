@@ -1,0 +1,343 @@
+{
+  "projects": [
+    {
+      "id": "8bad879b-9f32-497f-b0bc-e76a2e620a69",
+      "title": "fas",
+      "hourSek": 20,
+      "color": "#d1c3a9"
+    },
+    {
+      "id": "d5909f82-91f8-4b5b-9952-fc878d778407",
+      "title": "killarna från mars",
+      "hourSek": 900000,
+      "color": "#f6b73c"
+    },
+    {
+      "id": "118d149b-7711-4488-9253-fe4854191335",
+      "title": "kalleanka",
+      "hourSek": 5000
+    },
+    {
+      "id": "90ea917a-a47b-4a30-81c5-bcaddaf6bbeb",
+      "title": "lingon",
+      "hourSek": 233333
+    },
+    {
+      "id": "1b1f2c9d-33c9-47e5-8c23-48a59d6cb045",
+      "title": "fas",
+      "hourSek": 6000
+    },
+    {
+      "id": "e9e5cd1a-5610-460c-a19a-084a34aa5fe3",
+      "title": "os",
+      "hourSek": 5000
+    }
+  ],
+  "tasks": [
+    {
+      "id": "e8b630fb-8afc-4da2-b455-ff0a2bad856d",
+      "projectId": "8bad879b-9f32-497f-b0bc-e76a2e620a69",
+      "projectTitle": "fas",
+      "color": "#d1c3a9",
+      "title": "fiskhåk",
+      "time_spent": 8.721,
+      "invoiced": "no"
+    },
+    {
+      "id": "665eea31-9322-4a13-b32f-b2ee8357464d",
+      "projectId": "d5909f82-91f8-4b5b-9952-fc878d778407",
+      "projectTitle": "killarna från mars",
+      "color": "#f6b73c",
+      "title": "ostronskivling",
+      "time_spent": 31.935,
+      "invoiced": "no"
+    },
+    {
+      "id": "8ca67fe6-e41c-449a-b5e0-b1be682165ba",
+      "projectId": "90ea917a-a47b-4a30-81c5-bcaddaf6bbeb",
+      "projectTitle": "lingon",
+      "title": "hej alla",
+      "time_spent": 1.754,
+      "invoiced": "no"
+    },
+    {
+      "id": "c8d9b492-dc2a-407a-b8ab-24ba688d0097",
+      "projectId": "d5909f82-91f8-4b5b-9952-fc878d778407",
+      "projectTitle": "killarna från mars",
+      "title": "fsadsad",
+      "time_spent": 2.962,
+      "invoiced": "no"
+    },
+    {
+      "id": "e1fbea4c-7bd7-4c4b-aba6-0f5a175820e8",
+      "projectId": "d5909f82-91f8-4b5b-9952-fc878d778407",
+      "projectTitle": "killarna från mars",
+      "title": "fass",
+      "time_spent": 2.695,
+      "invoiced": "no"
+    },
+    {
+      "id": "b178bb86-3e7e-4ed8-b844-b545c0fbaae4",
+      "projectId": "d5909f82-91f8-4b5b-9952-fc878d778407",
+      "projectTitle": "killarna från mars",
+      "title": "fiskare",
+      "time_spent": 0,
+      "invoiced": "no"
+    },
+    {
+      "id": "bc7b91dc-c8c0-497b-aaee-aeedc73349b8",
+      "projectId": "90ea917a-a47b-4a30-81c5-bcaddaf6bbeb",
+      "projectTitle": "lingon",
+      "title": "fiskarna",
+      "time_spent": 0,
+      "invoiced": "no"
+    }
+  ],
+  "timelogs": [
+    {
+      "id": "5cac6940-d846-4ac6-9f0e-b66c5a4a3bea",
+      "taskId": "665eea31-9322-4a13-b32f-b2ee8357464d",
+      "active": false,
+      "startDate": "2022-11-28",
+      "startTime": 1669641909957,
+      "endDate": "2022-11-28",
+      "endTime": 1669641941892
+    },
+    {
+      "id": "b1704b88-6deb-4830-9e4c-8cc663f40e3e",
+      "taskId": "665eea31-9322-4a13-b32f-b2ee8357464d",
+      "active": false,
+      "startDate": "2022-11-29",
+      "startTime": 1669715031883,
+      "endDate": "2022-11-29",
+      "endTime": 1669715043486
+    },
+    {
+      "id": "519a1a94-30ac-4bc5-8620-6642c31b8171",
+      "taskId": "e8b630fb-8afc-4da2-b455-ff0a2bad856d",
+      "active": false,
+      "startDate": "2022-11-29",
+      "startTime": 1669737454541,
+      "endDate": "2022-11-29",
+      "endTime": 1669737463262
+    },
+    {
+      "id": "11e261d7-c395-4e11-ae3e-f6d585a8ed0e",
+      "taskId": "e8b630fb-8afc-4da2-b455-ff0a2bad856d",
+      "active": false,
+      "startDate": "2022-11-29",
+      "startTime": 1669737482382,
+      "endDate": "2022-11-29",
+      "endTime": 1669737484598
+    },
+    {
+      "id": "912ea4cc-bdf4-4c74-9cf3-21b50532cacf",
+      "taskId": "e8b630fb-8afc-4da2-b455-ff0a2bad856d",
+      "active": false,
+      "startDate": "2022-11-29",
+      "startTime": 1669737737290,
+      "endDate": "2022-11-29",
+      "endTime": 1669737738816
+    },
+    {
+      "id": "8bd90eff-0874-451d-a9e3-ec40e0df6f88",
+      "taskId": "e8b630fb-8afc-4da2-b455-ff0a2bad856d",
+      "active": false,
+      "startDate": "2022-11-29",
+      "startTime": 1669738012630,
+      "endDate": "2022-11-29",
+      "endTime": 1669738017194
+    },
+    {
+      "id": "07e4035e-f0b7-428f-9a90-a9549b11e484",
+      "taskId": "8ca67fe6-e41c-449a-b5e0-b1be682165ba",
+      "active": false,
+      "startDate": "2022-11-29",
+      "startTime": 1669742129299,
+      "endDate": "2022-11-29",
+      "endTime": 1669742131053
+    },
+    {
+      "id": "33ddaa64-60f9-49da-ada6-e2bfddca60e7",
+      "taskId": "e8b630fb-8afc-4da2-b455-ff0a2bad856d",
+      "active": false,
+      "startDate": "2022-11-29",
+      "startTime": 1669742366014,
+      "endDate": "2022-11-29",
+      "endTime": 1669742367757
+    },
+    {
+      "id": "af7f6a8c-960a-418a-8a56-69124f5f9950",
+      "taskId": "e8b630fb-8afc-4da2-b455-ff0a2bad856d",
+      "active": false,
+      "startDate": "2022-11-29",
+      "startTime": 1669744915383,
+      "endDate": "2022-11-29",
+      "endTime": 1669744918978
+    },
+    {
+      "id": "4ddc5d4b-90c3-4dc1-8b81-652ed9b8226c",
+      "taskId": "e8b630fb-8afc-4da2-b455-ff0a2bad856d",
+      "active": false,
+      "startDate": "2022-11-29",
+      "startTime": 1669744974759,
+      "endDate": "2022-11-29",
+      "endTime": 1669744980193
+    },
+    {
+      "id": "555eb1f7-8d4c-4f53-bb13-9eb774ae95b3",
+      "taskId": "665eea31-9322-4a13-b32f-b2ee8357464d",
+      "active": false,
+      "startDate": "2022-11-29",
+      "startTime": 1669746378295,
+      "endDate": "2022-11-29",
+      "endTime": 1669746380991
+    },
+    {
+      "id": "251f8aa0-b959-4f33-86da-389a0ff55714",
+      "taskId": "e1fbea4c-7bd7-4c4b-aba6-0f5a175820e8",
+      "active": false,
+      "startDate": "2022-11-29",
+      "startTime": 1669746388136,
+      "endDate": "2022-11-29",
+      "endTime": 1669746390831
+    },
+    {
+      "id": "3c3ee76c-92a0-4f97-adf8-44afaa8adb2c",
+      "taskId": "c8d9b492-dc2a-407a-b8ab-24ba688d0097",
+      "active": false,
+      "startDate": "2022-11-30",
+      "startTime": 1669802626738,
+      "endDate": "2022-11-30",
+      "endTime": 1669802629700
+    },
+    {
+      "id": "88882b95-0f0e-4634-aa6b-e749a71bbacd",
+      "taskId": "e8b630fb-8afc-4da2-b455-ff0a2bad856d",
+      "active": false,
+      "startDate": "2022-11-30",
+      "startTime": 1669804637982,
+      "endDate": "2022-11-30",
+      "endTime": 1669804639943
+    },
+    {
+      "id": "88df6fc3-4312-4e47-a06d-e2739d4e54c3",
+      "taskId": "e8b630fb-8afc-4da2-b455-ff0a2bad856d",
+      "active": false,
+      "startDate": "2022-11-30",
+      "startTime": 1669812636700,
+      "endDate": "2022-11-30",
+      "endTime": 1669812650393
+    },
+    {
+      "id": "989a8a89-8a4f-4da1-a829-416b6f2e90e9",
+      "taskId": "e8b630fb-8afc-4da2-b455-ff0a2bad856d",
+      "active": false,
+      "startDate": "2022-11-30",
+      "startTime": 1669812671811,
+      "endDate": "2022-11-30",
+      "endTime": 1669813470758
+    },
+    {
+      "id": "967a74bf-7b4b-48a7-a0c6-354b2fd4c61b",
+      "taskId": "9223036c-dd0c-464b-8f1a-c4c67400d358",
+      "active": false,
+      "startDate": "2022-11-30",
+      "startTime": 1669816839281,
+      "endDate": "2022-11-30",
+      "endTime": 1669816845813
+    }
+  ],
+  "invoices": [
+    {
+      "id": "e9250f9c-c675-4b47-b056-3f5a5b082e53",
+      "projectId": "d5909f82-91f8-4b5b-9952-fc878d778407",
+      "status": "unpaid",
+      "due": "2022-12-29",
+      "amount": 7984,
+      "clientName": "falska",
+      "timevoiced": "2022-11-29"
+    },
+    {
+      "id": "844e5519-b213-46c6-bcb9-691c98f1aa99",
+      "projectId": "d5909f82-91f8-4b5b-9952-fc878d778407",
+      "status": "late",
+      "due": "2022-12-29",
+      "amount": 7984,
+      "clientName": "faaaa",
+      "timevoiced": "2022-11-29"
+    },
+    {
+      "id": "f4547a51-5fbe-45c6-bba1-65719deaf083",
+      "projectId": "d5909f82-91f8-4b5b-9952-fc878d778407",
+      "status": "paid",
+      "due": "2022-12-29",
+      "amount": 7984,
+      "clientName": "faaaa",
+      "timevoiced": "2022-11-29"
+    },
+    {
+      "id": "08c67268-f610-4844-8cd6-8528e2b2227b",
+      "projectId": "d5909f82-91f8-4b5b-9952-fc878d778407",
+      "status": "late",
+      "due": "2022-12-29",
+      "amount": 0,
+      "clientName": "alteret",
+      "timevoiced": "2022-11-29"
+    },
+    {
+      "id": "2807200b-be33-48a4-bbe7-6067b069411a",
+      "projectId": "d5909f82-91f8-4b5b-9952-fc878d778407",
+      "status": "paid",
+      "due": "2022-12-29",
+      "amount": 7984,
+      "clientName": "kifta",
+      "timevoiced": "2022-11-29"
+    },
+    {
+      "id": "c625fb73-c494-46dd-a104-cf9641e800cd",
+      "projectId": "d5909f82-91f8-4b5b-9952-fc878d778407",
+      "status": "late",
+      "due": "2022-12-29",
+      "amount": 7984,
+      "clientName": "sssss",
+      "timevoiced": "2022-11-29"
+    },
+    {
+      "id": "f5d64c0b-cc70-41cd-a664-c1e93684751e",
+      "projectId": "d5909f82-91f8-4b5b-9952-fc878d778407",
+      "status": "late",
+      "due": "2022-12-29",
+      "amount": 7984,
+      "clientName": "alla",
+      "timevoiced": "2022-11-29"
+    },
+    {
+      "id": "ad26f01c-e6df-4afa-a86c-0a02e21ee803",
+      "projectId": "d5909f82-91f8-4b5b-9952-fc878d778407",
+      "status": "paid",
+      "due": "2022-12-29",
+      "amount": 7984,
+      "clientName": "fsa",
+      "timevoiced": "2022-11-29"
+    },
+    {
+      "id": "98a7ce0f-f974-4767-ada8-6efa9d4d1230",
+      "projectId": "d5909f82-91f8-4b5b-9952-fc878d778407",
+      "status": "paid",
+      "due": "2022-12-29",
+      "amount": 7984,
+      "clientName": "sdasadas",
+      "timevoiced": "2022-11-29"
+    },
+    {
+      "id": "dd5497db-079a-406a-9fa5-b6b1bc0aaccf",
+      "projectId": "d5909f82-91f8-4b5b-9952-fc878d778407",
+      "status": "paid",
+      "due": "2022-12-30",
+      "amount": 7984,
+      "clientName": "fsadssss",
+      "timevoiced": "2022-11-30"
+    }
+  ]
+}

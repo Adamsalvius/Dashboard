@@ -1,0 +1,20 @@
+.app {
+  display: flex;
+}
+
+.navButton > * {
+  margin: 0px 20px 0px;
+  color: #ebf8fe;
+  font-size: 20px;
+  margin-bottom: 40px;
+  text-decoration: none;
+}
+
+thead,
+tfoot {
+  background-color: rgb(179, 9, 9);
+  color: #fff;
+}
+.navbactive {
+  color: rgb(0, 0, 0) !important ;
+}
